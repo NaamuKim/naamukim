@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiWonKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=32BF84&height=200&section=header&fontSize=70&animation=twinkling)
 
-<p align="center">NaaMu Kim</p>
+<h2 align="center">NaaMu Kim</p>
 
 <h3 align="center">✈ My Stack ✈</h3>
 
