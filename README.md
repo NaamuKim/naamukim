@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=47C072&height=130&section=header&text=JiWonKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0F9B8E&height=130&section=header&text=JiWonKim&fontSize=70&&fontColor=343837&animation=twinkling)
 
 <h3 align="center">'Stay Hungry, Stay Foolish'</h3>
 
-<h3 align="center">✈ My Stack ✈</h3>
+<h3 align="center">My Stack</h3>
 
 <p align="center">
   <a href="https://github.com/NaamuKim/Practicing-Grid"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
