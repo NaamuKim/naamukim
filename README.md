@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=47C072&height=150&section=header&text=JiWonKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=47C072&height=130&section=header&text=JiWonKim&fontSize=70&animation=twinkling)
 
 <h3 align="center">'Stay Hungry, Stay Foolish'</h3>
 
