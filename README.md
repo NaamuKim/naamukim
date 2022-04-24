@@ -18,7 +18,7 @@
  </div>
 <div align="center">
   
-  ### Trophy.
+  ### Trophies
   
   <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </div>
