@@ -5,12 +5,7 @@
 <h3 align="center">My Stack</h3>
 
 <p align="center">
-  <a href="https://github.com/NaamuKim/react-sns-app"><img src="https://img.shields.io/badge/javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-    <a href="https://github.com/NaamuKim/BlockChain-by-TS"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <br/>
-  <a href="https://gracious-thompson-c28252.netlify.app/#/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <a href=""><img src="https://img.shields.io/badge/redux-7246B5?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
-  <a href="https://github.com/NaamuKim/Together"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=Next.js&logoColor=black"/></a>&nbsp 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /></div>&nbsp 
 </p>
   
 <br>
