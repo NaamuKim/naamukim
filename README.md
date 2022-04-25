@@ -20,5 +20,5 @@
   
   ### Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naamukim&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </div>
