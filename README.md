@@ -31,8 +31,14 @@
     </thead>
     <tbody>
       <tr>
+        <td style="border: 1px solid #ccc; padding: 8px;">webdriverio</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">Enhance job completion logging format</td>
+        <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/webdriverio/webdriverio/pull/14632" target="_blank">View PR</a></td>
+        <td style="border: 1px solid #ccc; padding: 8px;">2025-07-12</td>
+      </tr>
+      <tr>
         <td style="border: 1px solid #ccc; padding: 8px;">jotai</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">Implement skipIf for conditional test skipping </td>
+        <td style="border: 1px solid #ccc; padding: 8px;">Implement skipIf for conditional test skipping</td>
         <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/pmndrs/jotai/pull/2161" target="_blank">View PR</a></td>
         <td style="border: 1px solid #ccc; padding: 8px;">2023-10-02</td>
       </tr>
@@ -44,7 +50,7 @@
       </tr>
       <tr>
         <td style="border: 1px solid #ccc; padding: 8px;">ko.javascript.info</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">translate ArrayBuffer, binary arrays section</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">ArrayBuffer, binary arrays section</td>
         <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/javascript-tutorial/ko.javascript.info/pull/1550" target="_blank">View PR</a></td>
         <td style="border: 1px solid #ccc; padding: 8px;">2022-09-18</td>
       </tr>
