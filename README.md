@@ -11,9 +11,7 @@
 <div style="margin-top: 20px; padding: 10px; border-top: 1px solid #ccc;">
   <h2>Introduction</h2>
   <ul>
-    <li>2+ years of Front-End development in commerce and advertising domains.</li>
-    <li>Senior in Communications Engineering.</li>
-    <li>Passionate about <mark>connecting</mark> businesses and users via <mark>data</mark>.</li>
+    <li>Passionate about <mark>platform engineering</mark>.</li>
     <li>Dedicated to delivering quality and an <mark>outstanding user experience</mark>.</li>
   </ul>
 </div>
