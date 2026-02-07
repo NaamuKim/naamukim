@@ -11,47 +11,7 @@
 <div style="margin-top: 20px; padding: 10px; border-top: 1px solid #ccc;">
   <h2>Introduction</h2>
   <ul>
-    <li>Passionate about <mark>platform engineering</mark>.</li>
+    <li>Passionate about <mark>Developer Expericnce and Platform Engineering</mark>.</li>
     <li>Dedicated to delivering quality and an <mark>outstanding user experience</mark>.</li>
   </ul>
-</div>
-
-<div style="margin-top: 20px;">
-  <h2>Open Source Contributions</h2>
-  <table style="width: 100%; border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid #ccc; padding: 8px;">Project</th>
-        <th style="border: 1px solid #ccc; padding: 8px;">Description</th>
-        <th style="border: 1px solid #ccc; padding: 8px;">Link</th>
-        <th style="border: 1px solid #ccc; padding: 8px;">Date</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 8px;">webdriverio</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">Enhance job completion logging format</td>
-        <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/webdriverio/webdriverio/pull/14632" target="_blank">View PR</a></td>
-        <td style="border: 1px solid #ccc; padding: 8px;">2025-07-12</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 8px;">jotai</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">Implement skipIf for conditional test skipping</td>
-        <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/pmndrs/jotai/pull/2161" target="_blank">View PR</a></td>
-        <td style="border: 1px solid #ccc; padding: 8px;">2023-10-02</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 8px;">zustand</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">Validate state synchronization between server and client in React 18 using Zustand</td>
-        <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/pmndrs/zustand/pull/2088" target="_blank">View PR</a></td>
-        <td style="border: 1px solid #ccc; padding: 8px;">2023-10-02</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 8px;">ko.javascript.info</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">ArrayBuffer, binary arrays section</td>
-        <td style="border: 1px solid #ccc; padding: 8px;"><a href="https://github.com/javascript-tutorial/ko.javascript.info/pull/1550" target="_blank">View PR</a></td>
-        <td style="border: 1px solid #ccc; padding: 8px;">2022-09-18</td>
-      </tr>
-    </tbody>
-  </table>
 </div>
